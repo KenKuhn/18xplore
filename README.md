@@ -8,7 +8,7 @@
 - Poker chips.
 
 ## Investment Rounds
-Players take turns selling as many potentials as they want and then choosing one action:
+Players take turns selling as many potentials as they want (placing them back onto the owning guild's card, flipped over to show that they won’t pay dividends) and then choosing one action:
 
 - Start a new guild: take the card and a color of free potentials, set its
 	initial price and pay twice that to buy the leader disk (larger-than-normal
@@ -20,9 +20,7 @@ Players take turns selling as many potentials as they want and then choosing one
 	guild’s card. That guild’s leader may choose to make another one available,
 	if they like.
 
-Sold potentials go onto the guild card, flipped over to show that they won’t
-pay dividends. A guild can unflip potentials in the Expedition Round by paying
-their current price.
+*Buybacks:* A guild can unflip potentials in the Expedition Round by paying their current price.
 
 ## Expedition Rounds
 Guilds take turns exploring, expanding, and expedition-ing, from highest price to lowest.
