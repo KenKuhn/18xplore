@@ -7,6 +7,12 @@
 - A bunch of hexagon map tiles, with paths in from each side and nodes with value / cost.
 - Poker chips.
 
+## Setup
+1. Put the starting hex (capital city with six sources) in the middle of the table.
+2. Draw six expeditions out of the bag to make the expedition market.
+3. Shuffle the deck of guilds and flip six over to make the guild market.
+4. Give everyone a bunch of money. [TBD]
+
 ## Investment Rounds
 Players take turns selling as many potentials as they want (placing them back onto the owning guild's card, flipped over to show that they won’t pay dividends) and then choosing one action:
 
