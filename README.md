@@ -1,4 +1,4 @@
-# 184x
+# 18xplore
 
 ## Components
 - A deck of public and private (side-bet) adventuring guilds.
